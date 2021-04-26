@@ -1,0 +1,45 @@
+Build-business,Pilot-business,Others-business,Build-it,Pilot-it,Other-it
+"Have a clear view on expectations ""who does what""  between build and Pilot-team ",Proper Scoping  for Pilot Testing,"Proactive test management: progressm issues, reporting",,define migration / cutover plan,?
+Define a good methodology for online testing process (is also required for Build Integ test and can be taken over),Pilot Team needs to have test data defined,Project Management: Proper sequencing and timing  of testing activities,,ramp up new IT team,Set up short daily or bi-daily status meetings
+Finalize the use cases,Input Data (scoping test data and transactional)),From Johannes:,,"Set up local infrastructure - printers, scanners...",Definition of Test-Data
+Review and familiarize with Test cases and Test Steps,Define Master Data,Training test users / provide U-ID and roles,,,(business)
+test cases defined,define transactional data to be used,Overall Training concep,,,
+Pre-Requisite: Trainings have been concluded by Key-Users,"Have a clear view on expectations ""who does what""  between build and Pilot-team ",Establish overal change & approval process,,,
+Align with 1.0 if possible combination can be performed,"Prepare the Testing team  - Set Expectation, Familiarize them with Template, Clearly specify the deliverables",,,,
+Clear definition of the test data which should be used,Feedback on identified Test Cases for Int Test 1,,,,
+"onboard  Pilot core team member (UX, PR, CINS testscenarios) ",Support in identifying the real Master data for respective test cases,,,,
+Create Test Data,Review and familiarize with Test cases and Test Steps,,,,
+,Pilot Leads to inform pilot team  the principle of a Template - We do not look for new requirements,,,,
+,Clear agenda for test Prototype,,,,
+,train tester in S/4 methodolgy (other way of working),,,,
+,Nominate Testers & Test Coordinators,,,,
+,Block the agenda of the participants,,,,
+,really actionable item for this period?,,,,
+,Pilot team needs to have a clear test plan,,,,
+,Update requirements and specivications as required,,,,
+,,,Fix and bugs  -raise awareness to Pilot team in case of cahnges,,COE
+,,,Guide business through testing,,System Performance Monitoring
+,Allow prototype testers to observe the Int Testing 1,,,,
+,Define Test cases Pilot,,,,
+,Identify real E2E test  cases to be prepared,,,,
+,If not E2E - functional transformation required,,,,
+,,,,,
+,,,Test plan assigned to Pilot,Copy CINS to Organizational Units,Business Roles assgned to the orenterprise structure - IAM
+,Ramp Up New Process Experts,COE,,Only if technical migration required: Migrate test data,
+,Set up test users and assign roles,Train test users in solman (test mgmt.),,Pilot team needs to configure the new org structures with Template,Business Roles assgned to the orenterprise structure - IAM
+,Roles need to be assigned to testers,,,Solution Manager Training for new testers/team,
+,Test user access before testing,ZUM,,Set up short Lessons Learned Session,
+,create transactional data to be used,Provide authorization for test users (IAM),,dress-rehearsal  prototype demo ,
+,Set up FRD specific test data and align within team,Derive  roles from CINS,,,
+,,Aurthorizations for test users to be set,,,
+,,Hotline for assistance to test team (project mgt.),,,
+,,"who, how?",,,
+,,MS Teams? ,Report & fix issues  - evaluate criticality for 1.0,,
+,Perform and track test,,Guide business through testing,,
+,Test with real authorization,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+Update requirements and specivications as required,,,"Ensure technical documents are updated, align changes with 0.9 and 1.0","Ensure technical documents are updated, align changes with 0.9 and 1.0",
+,,,,Consider ZQ1 system refresh,

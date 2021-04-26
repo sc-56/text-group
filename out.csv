@@ -1,0 +1,82 @@
+,sentence,class
+0,"Have a clear view on expectations ""who does what""  between build and Pilot-team ",pilot
+1,Define a good methodology for online testing process (is also required for Build Integ test and can be taken over),data
+2,Finalize the use cases,test
+3,Review and familiarize with Test cases and Test Steps,test
+4,test cases defined,test
+5,Pre-Requisite: Trainings have been concluded by Key-Users,require
+6,Align with 1.0 if possible combination can be performed,require
+7,Clear definition of the test data which should be used,data
+8,"onboard  Pilot core team member (UX, PR, CINS testscenarios) ",pilot
+9,Create Test Data,data
+10,Update requirements and specivications as required,require
+11,Proper Scoping  for Pilot Testing,pilot
+12,Pilot Team needs to have test data defined,pilot
+13,Input Data (scoping test data and transactional)),data
+14,Define Master Data,data
+15,define transactional data to be used,data
+16,"Have a clear view on expectations ""who does what""  between build and Pilot-team ",pilot
+17,"Prepare the Testing team  - Set Expectation, Familiarize them with Template, Clearly specify the deliverables",test
+18,Feedback on identified Test Cases for Int Test 1,test
+19,Support in identifying the real Master data for respective test cases,data
+20,Review and familiarize with Test cases and Test Steps,test
+21,Pilot Leads to inform pilot team  the principle of a Template - We do not look for new requirements,pilot
+22,Clear agenda for test Prototype,pilot
+23,train tester in S/4 methodolgy (other way of working),require
+24,Nominate Testers & Test Coordinators,business
+25,Block the agenda of the participants,require
+26,really actionable item for this period?,require
+27,Pilot team needs to have a clear test plan,pilot
+28,Update requirements and specivications as required,require
+29,Allow prototype testers to observe the Int Testing 1,business
+30,Define Test cases Pilot,test
+31,Identify real E2E test  cases to be prepared,test
+32,If not E2E - functional transformation required,require
+33,Ramp Up New Process Experts,require
+34,Set up test users and assign roles,user
+35,Roles need to be assigned to testers,business
+36,Test user access before testing,business
+37,create transactional data to be used,data
+38,Set up FRD specific test data and align within team,pilot
+39,Perform and track test,test
+40,Test with real authorization,test
+41,"Proactive test management: progressm issues, reporting",test
+42,Project Management: Proper sequencing and timing  of testing activities,business
+43,From Johannes:,require
+44,Training test users / provide U-ID and roles,user
+45,Overall Training concep,user
+46,Establish overal change & approval process,require
+47,COE,coe
+48,Train test users in solman (test mgmt.),user
+49,ZUM,require
+50,Provide authorization for test users (IAM),user
+51,Derive  roles from CINS,user
+52,Aurthorizations for test users to be set,user
+53,Hotline for assistance to test team (project mgt.),pilot
+54,"who, how?",require
+55,MS Teams? ,require
+56,Fix and bugs  -raise awareness to Pilot team in case of cahnges,pilot
+57,Guide business through testing,business
+58,Test plan assigned to Pilot,pilot
+59,Report & fix issues  - evaluate criticality for 1.0,require
+60,Guide business through testing,business
+61,"Ensure technical documents are updated, align changes with 0.9 and 1.0",require
+62,define migration / cutover plan,data
+63,ramp up new IT team,pilot
+64,"Set up local infrastructure - printers, scanners...",require
+65,Copy CINS to Organizational Units,require
+66,Only if technical migration required: Migrate test data,data
+67,Pilot team needs to configure the new org structures with Template,pilot
+68,Solution Manager Training for new testers/team,user
+69,Set up short Lessons Learned Session,require
+70,dress-rehearsal  prototype demo ,business
+71,"Ensure technical documents are updated, align changes with 0.9 and 1.0",require
+72,Consider ZQ1 system refresh,require
+73,?,require
+74,Set up short daily or bi-daily status meetings,require
+75,Definition of Test-Data,data
+76,(business),business
+77,COE,coe
+78,System Performance Monitoring,require
+79,Business Roles assgned to the orenterprise structure - IAM,user
+80,Business Roles assgned to the orenterprise structure - IAM,user
